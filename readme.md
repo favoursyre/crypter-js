@@ -12,7 +12,6 @@ This script is for educational purposes only, I don't endorse or promote it's il
 4. [Installations](#installations)
 5. [Usage](#usage)
 6. [Run](#run)
-7. [FAQs](#faqs)
 
 ## Overview
 
